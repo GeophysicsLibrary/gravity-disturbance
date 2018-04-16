@@ -2,7 +2,7 @@
 
 TODO: Short description
 
-![Banner image with the data used]()
+![Global gravity disturbance in mGal](gravity-disturbance.png)
 
 
 **Run the notebooks online:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GeophysicsLibrary/gravity-disturbance/master?filepath=gravity-disturbance.ipynb)
